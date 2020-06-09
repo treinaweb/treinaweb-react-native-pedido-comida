@@ -1,4 +1,4 @@
-const api = 'http://192.168.0.28:3002/api/treinafood/';
+const api = 'http://192.168.0.25:3002/api/treinafood/';
 
 export const ApiService = {
     get(endpoint){
